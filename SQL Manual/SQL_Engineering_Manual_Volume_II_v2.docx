@@ -1,0 +1,75 @@
+OPERATION FEDERAL READY — SQL ENGINEERING MANUAL, VOL. II
+
+**SQL Engineering Manual**
+
+**Volume II — Mission 1: SQL Foundations**
+
+### **Mission**
+
+Master SQL through daily lessons, projects, and Engineering Friday reviews.
+
+# **Week 1**
+
+## **SQL-001 — Database Fundamentals ****&**** SELECT**
+
+| **Status** | Learning / Practicing |
+| --- | --- |
+| **Summary** | SQLBolt Lesson 1; databases, tables, rows, columns, unique IDs, SELECT, SELECT *, FROM. Confidence: DB 3/5, Tables 4/5, SELECT/FROM 5/5. |
+| **NFCU Connection** | Relates to Oracle, OTBI, BI Publisher and Power BI. |
+| **Reflection** | Update every Engineering Friday. |
+| **Next Topic** | Next SQLBolt lesson |
+
+## **SQL-002 — WHERE Clause**
+
+| **Status** | Learning / Practicing |
+| --- | --- |
+| **Summary** | SQLBolt Lesson 3 Parts 1–2; WHERE, comparison operators, BETWEEN, IN, LIKE, wildcards. Overall confidence 3.5/5. |
+| **NFCU Connection** | Relates to Oracle, OTBI, BI Publisher and Power BI. |
+| **Reflection** | Update every Engineering Friday. |
+| **Next Topic** | Next SQLBolt lesson |
+
+## **SQL-003 — Filtering ****&**** Sorting**
+
+| **Status** | Learning / Practicing |
+| --- | --- |
+| **Summary** | SQLBolt Lesson 4; DISTINCT, ORDER BY, LIMIT, OFFSET. DataCamp: SQL Style & Writing Queries. Confidence: SQLBolt 2.5/5; DataCamp 4/5. |
+| **NFCU Connection** | Relates to Oracle, OTBI, BI Publisher and Power BI. |
+| **Reflection** | Update every Engineering Friday. |
+| **Next Topic** | Next SQLBolt lesson |
+
+## **SQL-004 — Review, Aliases ****&**** Views**
+
+| **Status** | Learning / Practicing |
+| --- | --- |
+| **Summary** | SQLBolt Review 1 plus DataCamp aliases, CREATE VIEW and AS. Biggest insight: solving business questions is harder than syntax. Confidence: SQLBolt 3/5; DataCamp 4/5. |
+| **NFCU Connection** | Relates to Oracle, OTBI, BI Publisher and Power BI. |
+| **Reflection** | Update every Engineering Friday. |
+| **Next Topic** | Next SQLBolt lesson |
+
+## **Weekly Mission Review**
+
+**1. **What did you learn this week?
+
+**2. **What concept finally clicked for me?
+
+**3. **What is the hardest concept?
+
+**4. **What do I still not understand?
+
+**5. **If my manager asked me to use SQL on Monday, what could I confidently do?
+
+**6. **What SQL commands can I write from memory?
+
+**7. **Which SQL commands still require me to look at examples?
+
+**8. **What business problem did I solve this week?
+
+**9. **What connection did I make to NFCU?
+
+**10. **Overall confidence this week (1–5)
+
+**11. **Overall practical ability (1–5)
+
+**12. **Business Problem Solving (1–5)
+
+UNCLASSIFIED   |   Page  of
